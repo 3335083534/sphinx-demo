@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'sphinx'
-copyright = '2024, 杨衡杰'
-author = '杨衡杰'
+copyright = '2024, YHJ'
+author = 'YHJ'
 
 
 # -- General configuration ---------------------------------------------------
