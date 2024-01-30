@@ -52,3 +52,4 @@ jobs:
         with:
           publish_dir: doc/build/html
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
